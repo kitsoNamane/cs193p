@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		AE4F62D32B4ADAFD00B42CC5 /* MemorizeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE4F62D22B4ADAFD00B42CC5 /* MemorizeApp.swift */; };
-		AE4F62D52B4ADAFD00B42CC5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE4F62D42B4ADAFD00B42CC5 /* ContentView.swift */; };
+		AE4F62D52B4ADAFD00B42CC5 /* MemorizeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE4F62D42B4ADAFD00B42CC5 /* MemorizeView.swift */; };
 		AE4F62D72B4ADAFF00B42CC5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE4F62D62B4ADAFF00B42CC5 /* Assets.xcassets */; };
 		AE4F62DB2B4ADAFF00B42CC5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE4F62DA2B4ADAFF00B42CC5 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
@@ -16,7 +16,7 @@
 /* Begin PBXFileReference section */
 		AE4F62CF2B4ADAFD00B42CC5 /* Memorize.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Memorize.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE4F62D22B4ADAFD00B42CC5 /* MemorizeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemorizeApp.swift; sourceTree = "<group>"; };
-		AE4F62D42B4ADAFD00B42CC5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		AE4F62D42B4ADAFD00B42CC5 /* MemorizeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemorizeView.swift; sourceTree = "<group>"; };
 		AE4F62D62B4ADAFF00B42CC5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AE4F62D82B4ADAFF00B42CC5 /* Memorize.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Memorize.entitlements; sourceTree = "<group>"; };
 		AE4F62DA2B4ADAFF00B42CC5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -53,7 +53,7 @@
 			isa = PBXGroup;
 			children = (
 				AE4F62D22B4ADAFD00B42CC5 /* MemorizeApp.swift */,
-				AE4F62D42B4ADAFD00B42CC5 /* ContentView.swift */,
+				AE4F62D42B4ADAFD00B42CC5 /* MemorizeView.swift */,
 				AE4F62D62B4ADAFF00B42CC5 /* Assets.xcassets */,
 				AE4F62D82B4ADAFF00B42CC5 /* Memorize.entitlements */,
 				AE4F62D92B4ADAFF00B42CC5 /* Preview Content */,
@@ -139,7 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AE4F62D52B4ADAFD00B42CC5 /* ContentView.swift in Sources */,
+				AE4F62D52B4ADAFD00B42CC5 /* MemorizeView.swift in Sources */,
 				AE4F62D32B4ADAFD00B42CC5 /* MemorizeApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
